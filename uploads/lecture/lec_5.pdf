@@ -1,0 +1,4 @@
+<br />
+<b>Notice</b>:  Undefined variable: id in <b>/Applications/XAMPP/xamppfiles/htdocs/bappi/pdf_download.php</b> on line <b>2</b><br />
+<br />
+<b>Warning</b>:  readfile(uploads/lecture/lec_.pdf): failed to open stream: No such file or directory in <b>/Applications/XAMPP/xamppfiles/htdocs/bappi/pdf_download.php</b> on line <b>7</b><br />
